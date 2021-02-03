@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi [RodriESM] [website] there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/RodriESM?color=%231DA1F2&label=RodriESM&logo=Twitter&style=flat-square)
 <!--
-**RodriESM/RodriESM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ctrl+k v
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--LINKS-->
+[website]: https://rodriesm.github.io/

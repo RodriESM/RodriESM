@@ -1,7 +1,6 @@
 ### Hi [RodriESM] [website] there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/RodriESM?color=%231DA1F2&label=RodriESM&logo=Twitter&style=flat-square)
-
 ![linkedin](https://img.shields.io/badge/linked-in-0077B5?style=flat-square&logo=linkedin&logoColor)
 
 ### 

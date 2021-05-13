@@ -26,11 +26,11 @@ ctrl+k v
 
 <img align="left" width="40" src="https://img.icons8.com/color/452/spring-logo.png"/>
 
-<img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/1024px-Maven_logo.svg.png"/>
+<img align="left" width="40" src="https://habrastorage.org/webt/5a/f3/22/5af322981410c538019113.png"/>
 
 <img align="left" width="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
 
-<img align="left" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
+<img align="left" width="40" src="https://zeroc.com/images/logos/languages/csharp-854e1151ec.png"/>
 
 <img align="left" width="40" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"/>
 

@@ -13,7 +13,7 @@ ctrl+k v
 ## 💻 Back developer 🎸 Amateur musician
 
 - 💼 I’m currently working on [Altran] Technologies, SA
-- 🌱 I’m currently learning about Spring Boot, Docker and Kubernets
+- 🌱 I’m currently learning about Spring Boot, Docker and Kubernetes
 - 👯 I’m looking to collaborate on making a website
 - 💬 Ask me about your Java problems
 - 😄 Pronouns: 'he/him'

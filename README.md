@@ -12,12 +12,13 @@ ctrl+k v
 
 ## 💻 Back developer 🎸 Amateur musician
 
-- 💼 I’m currently working on [Capgemini Engineering]
+- 💼 I’m currently working on [Capgemini Engineering](https://capgemini-engineering.com/es/es/)
 - 🌱 I’m currently learning about Spring Boot, Docker and Kubernetes
 - 👯 I’m looking to collaborate on making a website
 - 💬 Ask me about your Java problems
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: There is not time for jokes, I'm developing. 🐱‍💻
+
 ---
 
 ## 🍃 Coding
